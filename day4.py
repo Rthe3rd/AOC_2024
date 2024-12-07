@@ -1,7 +1,6 @@
 def read_in_data(input_data):
   with open(input_data, "r") as file:
     return file.readlines()
-  
 
 def part_1():
   puzzle = [val.strip() for val in read_in_data('day4.txt')]
