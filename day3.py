@@ -27,11 +27,4 @@ def part_two():
 
   return total
 
-# print(part_one())
 print(part_two())
-
-# 7668762 too low
-# 4426103
-# 113965544
-# 135602215 too high
-# 188192787 part 1
